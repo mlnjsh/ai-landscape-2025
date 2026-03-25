@@ -71,3 +71,34 @@ MIT License — See [LICENSE](LICENSE) for details.
 ---
 
 *Maintained by [Milan Amrut Joshi](https://github.com/mlnjsh) — Professor of Data Science, Northwestern University*
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/huggingface">
+        <img src="https://github.com/huggingface.png" width="80px;" alt="Hugging Face"/><br />
+        <sub><b>Hugging Face</b></sub>
+      </a><br />
+      <sub>Open-source AI platform</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/google-deepmind">
+        <img src="https://github.com/google-deepmind.png" width="80px;" alt="Google DeepMind"/><br />
+        <sub><b>Google DeepMind</b></sub>
+      </a><br />
+      <sub>Frontier AI research</sub>
+    </td>
+  </tr>
+</table>
